@@ -1,4 +1,4 @@
-This project helps to determine wether the Cist is cancerous or not
+This project helps to determine wether the Cist is cancerous or not using classification algorithms
 
 Python Libraries required for running the file:
 1)Sklearn
